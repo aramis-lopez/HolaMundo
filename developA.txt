@@ -1,5 +1,3 @@
 hola esta es una prueba 
 
 este archivo lo esta modificando el developB
-
-prueba de error developA
