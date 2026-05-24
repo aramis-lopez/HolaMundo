@@ -1,3 +1,3 @@
 esta es la prueba 2 de cambios.
 
-vamos a hacer una prueba en git con el developB
+vamos a hacer una prueba en git con el developB.
